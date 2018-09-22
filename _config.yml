@@ -246,7 +246,7 @@ sidebar:
   b2t: false
 
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
 
   # Enable sidebar on narrow view (only for Muse | Mist).
   onmobile: false
@@ -295,7 +295,7 @@ symbols_count_time:
 codeblock:
   # Manual define the border radius in codeblock
   # Leave it empty for the default 1
-  border_radius: 5
+  border_radius: 2
   # Add copy button on codeblock
   copy_button:
     enable: false
